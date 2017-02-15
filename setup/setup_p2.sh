@@ -127,3 +127,5 @@ chmod +x $name-remove.sh
 
 echo All done. Find all you need to connect in the $name-commands.txt file and to remove the stack call $name-remove.sh
 echo Connect to your instance: ssh -i ~/.ssh/aws-key-$name.pem ubuntu@$instanceUrl
+
+
